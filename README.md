@@ -1,6 +1,6 @@
 # Starship
 
-A Starship celebration theme for [Omarchy](https://omarchy.org): deep-space black, the blue of a launch sky, and engine-flame orange, on top of SpaceX's own launch photography upscaled to 6K.
+A Starship celebration theme for [Omarchy](https://omarchy.org): deep-space black, the blue of a launch sky, and engine-flame orange, on top of SpaceX's own launch photography upscaled to 8K.
 
 ![Starship desktop](screenshots/desktop.jpg)
 
@@ -22,7 +22,7 @@ Cycle the backgrounds with `omarchy theme bg next`.
 - `2-starship-flight-13-on-the-pad.jpg`: Flight 13 stacked on the pad under a pink sky
 - `3-starship-flight-12-liftoff.jpg`: Flight 12, a Starship V3, climbing out over the Texas coast
 
-All three are 6144x3456, cropped to 16:9 around the rocket and upscaled with Real-ESRGAN. On a wider or taller screen Omarchy crops the sides, and the rocket stays in the middle.
+All three are 7680x4320 (8K), cropped to 16:9 around the rocket and upscaled with Real-ESRGAN. On a wider or taller screen Omarchy crops the sides, and the rocket stays in the middle.
 
 **These photos are not mine.** They were taken by SpaceX and come from the mission pages on [spacex.com](https://www.spacex.com). All rights stay with SpaceX. See [CREDITS.md](CREDITS.md) for the source of each one.
 
