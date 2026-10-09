@@ -1,0 +1,38 @@
+# Starship
+#
+# Deep-space black with white text, the blue of a twilight launch plume as
+# accent, and engine-flame orange for warmth.
+
+mode = "dark"
+
+hyprland_inactive_border = "rgba(1c2230aa)"
+
+accent = "#5fb4ff"
+selection = "#1f3352"
+muted = "#737f93"
+
+background = "#0a0c11"
+dark_background = "#07080c"
+darker_background = "#040508"
+lighter_background = "#161b26"
+
+foreground = "#e6ebf2"
+dark_foreground = "#8a95a8"
+light_foreground = "#c9d1dd"
+bright_foreground = "#ffffff"
+
+red = "#ff5d5d"
+yellow = "#ffc857"
+orange = "#ff8a3d"
+green = "#7ee0a1"
+cyan = "#6fdcf2"
+blue = "#5fb4ff"
+magenta = "#c39bff"
+brown = "#a3714a"
+
+bright_red = "#ff8585"
+bright_yellow = "#ffd987"
+bright_green = "#a3f0bf"
+bright_cyan = "#9ceaf8"
+bright_blue = "#8ccbff"
+bright_magenta = "#d9bfff"
